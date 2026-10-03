@@ -1,0 +1,12 @@
+# Ignore local database/storage file so your personal test data isn't pushed
+expenses.csv
+
+# Ignore Python cache files generated automatically when running scripts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore local environment or OS metadata
+.DS_Store
+Thumbs.db
